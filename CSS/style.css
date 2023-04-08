@@ -162,7 +162,9 @@ color: #BE89CB;
     background-color: #BE89CB;
     padding: 30px;
 }
-
+#redes a{
+    text-decoration: none;
+}
 #redes .Facebook, .Git, .Linkedin, .Twitter{
    display: inline;
 }
@@ -179,3 +181,5 @@ color: #BE89CB;
 .Twitter{
     padding: 40px;
 }
+
+
