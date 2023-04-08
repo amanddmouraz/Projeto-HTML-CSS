@@ -4,7 +4,7 @@
 
 ## Sobre o projeto:
 
-- Link do projeto:
+- Link do projeto: https://amanda-projeto-html-css.netlify.app/
 
 ➡ O projeto final é um portfólio feito em HTML, CSS e será hospedado no netflify.
 
@@ -20,7 +20,7 @@
 
 Links:
 
-- [link do protótipo do projeto final] - 
+- [link do protótipo do projeto final] - https://amanda-projeto-html-css.netlify.app/
 
 
 - [link do protótipo] - (https://www.figma.com/file/dykEV9jRKyK7K83CQ74zfP/Portfolio-Ciclo-Formativo-II---M%C3%B3dulo-I?node-id=0%3A1)
