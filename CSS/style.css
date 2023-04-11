@@ -86,6 +86,7 @@ h2{
 .conteinerF{
     padding-left: 300px;
     text-decoration:none;
+    padding-top: 3%;
 }
 .tituloF{
     display: flex;
@@ -120,6 +121,7 @@ h2{
 .containerP {
     padding-left: 300px;
     background-color:hsla(0, 8%, 92%, 0.137);
+    padding-top: 3%;
 
 }
 .tituloP{
@@ -141,6 +143,7 @@ h2{
 #contato{
 padding-left: 300px;
 color: #BE89CB;
+padding-top: 3%;
 }
 
 #contato a{
