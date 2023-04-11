@@ -5,6 +5,9 @@
     font-family: 'Oswald', sans-serif;
     font-family: 'Roboto', sans-serif;
 }
+.header #menu{
+    width: 100%;
+}
 
 #menu {
     background-color: #BE89CB;
