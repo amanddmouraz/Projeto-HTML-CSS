@@ -110,6 +110,7 @@ h2{
 .lista-titulo{
     color: #828282;
     font-weight: bold;
+    text-decoration: none;
 }
 .lista-descricao{
     margin-top: 10px;
@@ -122,6 +123,7 @@ h2{
     padding-left: 300px;
     background-color:hsla(0, 8%, 92%, 0.137);
     padding-top: 5%;
+    text-decoration: none;
 
 }
 .tituloP{
@@ -155,7 +157,11 @@ padding-top: 3%;
     padding: 50px 0px 50px;
 }
 
-
+.lista-titulo p {
+    color: #828282;
+    font-weight: bold;
+    text-decoration: none;
+}
 
 
 .rodape{
