@@ -132,6 +132,7 @@ h2{
     display: flex;
     padding-left: 100px;
     padding-top: 10px;
+    text-decoration: none;
 }
 
 #portfolio ul li{
